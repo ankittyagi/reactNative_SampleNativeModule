@@ -1,0 +1,3 @@
+rootProject.name = 'NativeModule_HelloWorld'
+
+include ':app'
